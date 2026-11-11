@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="5.3750579999999974">
+<testsuite name="web\customer-registration.spec.ts" timestamp="2026-11-10T04:46:29.237Z" hostname="chromium" tests="1" failures="0" skipped="0" time="3.397" errors="0">
+<testcase name="Customer registration succeeds @master @sanity @web" classname="web\customer-registration.spec.ts" time="3.397">
+</testcase>
+</testsuite>
+</testsuites>

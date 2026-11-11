@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3397","Customer registration succeeds @master @sanity @web","chromium","2026-11-10","passed","2026-11-10","","web\customer-registration.spec.ts","",""
