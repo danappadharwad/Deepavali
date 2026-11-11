@@ -1,8 +1,19 @@
-
-# Playwright
 node_modules/
-/test-results/
-/playwright-report/
-/blob-report/
+
+.env
+.env.local
+
+/test-results
+/playwright-report
 /playwright/.cache/
 /playwright/.auth/
+
+/reports/
+/allure-report/
+/alure-results/
+/custom-report/
+
+.claude/
+.playwright/cli
+.playwright/test-results/
+.playwright-mcp/
